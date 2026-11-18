@@ -195,7 +195,7 @@ export const experiences = [
     img: "https://sbsmindscript.com/assets/images/logo.jpeg",
     role: " Fullstack Engineering Intern",
     company: "SBS Mindscript Software Solutions",
-    date: "Jan 2024 - July 2024",
+    date: "July 2023 - nov 2023",
     desc: "Working on Goverment Platforms, managing DevOps, and streamlining the process with automation.",
     skills: [
       "Javascript",
